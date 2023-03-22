@@ -1,3 +1,5 @@
+```ts
+
 // Imposta il percorso del file sorgente da migrare
 const filePath = '/path/to/source/file.ts';
 
@@ -35,3 +37,5 @@ const transformedSource = j(source)
 fs.writeFileSync(filePath, transformedSource);
 
 ACTION-BASE-CLASS-2-CREATEACTION.md
+
+```
