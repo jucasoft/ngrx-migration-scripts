@@ -1,0 +1,7 @@
+Jscodeshift: è uno strumento per la trasformazione del codice sorgente basato su AST (Abstract Syntax Tree) che consente di applicare trasformazioni automatizzate su grandi quantità di codice. Jscodeshift può essere utilizzato per migrare il codice sorgente da una versione di un framework o di un linguaggio di programmazione a un'altra.
+
+TypeScript-Refactor: è un pacchetto npm che offre funzionalità di refactoring per TypeScript, tra cui la possibilità di convertire il codice sorgente JavaScript in TypeScript. TypeScript-Refactor utilizza le API di TypeScript per analizzare il codice sorgente e applicare le trasformazioni necessarie per convertirlo in TypeScript.
+
+CodeShift: è uno strumento per la trasformazione del codice sorgente basato su AST che consente di applicare trasformazioni automatizzate su grandi quantità di codice. CodeShift supporta numerosi linguaggi di programmazione, tra cui JavaScript e TypeScript, e può essere utilizzato per migrare il codice sorgente da una versione di un framework o di un linguaggio di programmazione a un'altra.
+
+TS-Migrate: è un'utility open source per la migrazione del codice sorgente JavaScript in TypeScript. TS-Migrate utilizza la sintassi di TypeScript per generare codice TypeScript equivalente a quello in JavaScript, consentendo di ottenere i vantaggi di TypeScript senza dover riscrivere completamente il codice.

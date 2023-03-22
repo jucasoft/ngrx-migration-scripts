@@ -36,6 +36,4 @@ const transformedSource = j(source)
 // Salva il codice sorgente migrato
 fs.writeFileSync(filePath, transformedSource);
 
-ACTION-BASE-CLASS-2-CREATEACTION.md
-
 ```
