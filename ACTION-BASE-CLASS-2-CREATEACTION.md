@@ -44,10 +44,11 @@ fs.writeFileSync(filePath, transformedSource);
 
 ## utilizzo di TypeScript-Refactor
 
+
 Prima di tutto, TypeScript-Refactor è uno strumento molto utile per automatizzare il processo di rifattorizzazione del codice TypeScript. Ci sono diverse opzioni disponibili per l'installazione, ma uno dei modi più semplici per farlo è tramite npm:
 
-Copy code
-npm install -g typescript-refactor
+`npm install -g typescript-refactor`
+
 Una volta installato, possiamo utilizzarlo per convertire le action ngrx da base-class a createAction. Ecco i passaggi:
 
 Aprire il file contenente le action ngrx che si desidera convertire.
